@@ -1,0 +1,15 @@
+/*Form*/
+fieldset {width: 600px;}
+form h3 {text-align: center;}
+label, input, textarea {float: left}
+br {clear:both; margin-top: 30px;}
+label {width: 150px;}
+input[type=submit] {margin-top: 30px; margin-left:150px;}
+
+/*Article*/
+div.article {width:800px; font-family: Verdana, Geneva, sans-serif; font-size: 12px; margin: 0 auto;}
+p.date{font-style: italic;}
+
+/*Gallery*/
+div[class^=gallery-] {width: 90%; padding: 10px}
+div[class^=gallery-] img {margin-left: 5px;}
